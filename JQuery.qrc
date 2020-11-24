@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>JQuery/JQueryCheck.js</file>
+        <file>JQuery/JQueryGetTranslation.js</file>
+        <file>JQuery/JQuerySearchTranslation.js</file>
+        <file>qt-logo.ico</file>
+    </qresource>
+</RCC>
